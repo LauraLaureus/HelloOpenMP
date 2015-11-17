@@ -7,3 +7,5 @@ The delay of the timer for every tick is displayed at the end.
 
 #ScreenShot
 ![alt tag](https://raw.githubusercontent.com/LauraLaureus/HelloOpenMP/master/example.png)
+
+This example was developed for the subject "Numerical Methods for Computation" of the Degree in Computer Science (mention in Computation) - University of Las Palmas de Gran Canaria.
